@@ -1,0 +1,5 @@
+.spyproject
+.idea
+model_data
+train_data
+*__pycache__
